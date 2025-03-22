@@ -1,0 +1,569 @@
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 3
+Entrée dans render_story_select
+État du jeu: 3
+Ajout du texte
+Mise à jour de l'écran
+Fin render_story_select
+Entrée dans render_game
+État du jeu: 0

@@ -1,0 +1,8 @@
+=== Début chargement image ===
+Chemin du fichier: assets/images/image_eglise_orthodoxe.png
+Tentative de chargement avec IMG_Load...
+Image chargée avec succès, dimensions: 645x645
+Optimisation de l'image...
+Image optimisée avec succès
+Dimensions finales: 645x645
+=== Fin chargement image ===

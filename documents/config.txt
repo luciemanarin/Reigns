@@ -1,0 +1,5 @@
+music_path=assets/music/test_music/test1.mp3
+window_width=800
+window_height=600
+volume=100
+sound_volume=100
